@@ -6,7 +6,7 @@ Software to play back Gescom's 1998 album MiniDisc uniquely, every time.
 
 Gescom Runner generates one 88-track M3U playlist at a time and moves through the possible track orders in exact lexicographic order. It does **not** try to create one enormous playlist containing every possible order; instead, it generates the current order, gives it to VLC, waits for playback to finish, records a checkpoint, and then moves to the next order.
 
-> **Important:** This project is for use with audio files you have legally obtained. Do not add copyrighted audio recordings to the GitHub repository unless you have the necessary rights to redistribute them.
+> **Important:** This project is for use with audio files you have legally obtained. Do not add copyrighted audio recordings to this GitHub repository or in your personal use of this software unless you have the necessary rights to redistribute them. Support the artists!
 
 
 ## What you need
@@ -15,7 +15,7 @@ Before starting, install:
 
 1. **Python 3**
 2. **VLC media player**
-3. Your 88 legally obtained audio files representing the 88 pieces you want to play
+3. Your 88 legally obtained Gescom 'MiniDisc' audio files representing the 88 pieces you want to play
 4. This Python file:
    `gescom_exact_m3u_runner.py`
 
