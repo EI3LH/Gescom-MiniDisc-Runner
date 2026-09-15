@@ -7,6 +7,20 @@ Software to play back Gescom's 1998 album MiniDisc uniquely, every time.
 Gescom Runner generates one 88-track M3U playlist at a time and moves through the possible track orders in exact lexicographic order. It does **not** try to create one enormous playlist containing every possible order; instead, it generates the current order, gives it to VLC, waits for playback to finish, records a checkpoint, and then moves to the next order.
 
 > **Important:** This project is for use with audio files you have legally obtained. Do not add copyrighted audio recordings to this GitHub repository or in your personal use of this software unless you have the necessary rights to redistribute them. Support the artists!
+>
+---
+
+## Disclaimer & Credits
+
+This project was written with the assistance of **AI (OpenAI's ChatGPT)**. AI was used to help develop, refine, and document the code, while the project itself is provided as an open-source experiment in exploring the absurd combinatorial possibilities of Gescom's *MiniDisc*.
+
+The music is **not included** with this project. Please support the artists and obtain the music legally.
+
+**Purchase Gescom – *MiniDisc*:** [Boomkat — MiniDisc](https://boomkat.com/products/mini-disc)
+
+*Gescom – MiniDisc © Gescom. All rights reserved. This project is not affiliated with or endorsed by Gescom or the rights holders.*
+
+---
 
 
 ## What you need
