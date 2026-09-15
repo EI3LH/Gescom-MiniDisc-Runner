@@ -1,4 +1,4 @@
-![Gescom Runner](assets/gescom-runner-banner.png)
+![Gescom Runner](gescom-runner-banner.png)
 
 # Gescom-MiniDisc-Runner
 
